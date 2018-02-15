@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: turbine
+server:
+  port: 8007
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://loaclhost:8001/eureka/
+turbine:
+  app-config: eureka-consumer-ribbon
+  cluster-name-expression: "default"
+  combine-host-port: true

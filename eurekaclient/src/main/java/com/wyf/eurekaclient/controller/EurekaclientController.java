@@ -21,7 +21,7 @@ public class EurekaclientController {
     @RequestMapping(value = "/test", method = RequestMethod.GET)
     public String test() {
         try {
-            Thread.sleep(5000);
+//            Thread.sleep(5000);
         }catch (Exception e){
             e.printStackTrace();
         }
