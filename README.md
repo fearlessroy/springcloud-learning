@@ -12,4 +12,4 @@
 ## 微服务组织架构
 * 从传统职能型到跨职能产品型
 ![iamges](https://github.com/fearlessroy/springcloud-learning/blob/master/images/ownership.png)
-![images](https://github.com/fearlessroy/springcloud-learning/blob/master/images/weakness%26strength.png)
+![images](https://github.com/fearlessroy/springcloud-learning/blob/master/images/organization-chart.png)
