@@ -13,3 +13,7 @@
 * 从传统职能型到跨职能产品型
 ![iamges](https://github.com/fearlessroy/springcloud-learning/blob/master/images/ownership.png)
 ![images](https://github.com/fearlessroy/springcloud-learning/blob/master/images/organization-chart.png)
+## 微服务分层
+![images](https://github.com/fearlessroy/springcloud-learning/blob/master/images/servicelevel.png)
+## 微服务总体架构体系
+![images](https://github.com/fearlessroy/springcloud-learning/blob/master/images/systemarchitecture.png)
